@@ -12,3 +12,6 @@ Add random rotation to train images
 Train Loss: 0.9165, Train Accuracy: 54.76%
 Val Loss: 0.9093, Val Accuracy: 54.91%
 
+optimizer = torch.optim.Adam(model.parameters(), lr=1e-04)
+scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=30, gamma=0.1)
+after 75 epoch,
