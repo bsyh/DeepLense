@@ -14,6 +14,6 @@ Val Loss: 0.9093, Val Accuracy: 54.91%
 
 optimizer = torch.optim.Adam(model.parameters(), lr=1e-04)
 scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=30, gamma=0.1)
-after 75 epoch,
+after 79 epoch,
 Train Loss: 0.2164, Train Accuracy: 91.38%
 Val Loss: 0.2637, Val Accuracy: 89.29%
