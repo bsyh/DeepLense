@@ -15,7 +15,7 @@ This repository contains implementations of **ResNet-18**, Physics-Informed ResN
 - [Model Weights](#model-weights)
 
 ## Method
-
+ 
 ### Task 1: Standard ResNet-18
 - **Model:** ResNet-18  
 - **Description:** A standard ResNet-18 model is implemented to classify dark matter substructures in gravitational lensing images. 
