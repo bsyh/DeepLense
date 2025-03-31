@@ -22,7 +22,7 @@ This repository contains implementations of **ResNet-18**, Physics-Informed ResN
 
 ### Task 2: Physics-Informed ResNet-18
 - **Model:** PI-ResNet-18  
-- **Description:** A Physics-Informed ResNet-18 (PI-ResNet-18) integrates gravitational lensing euqations into the classification pipeline, utilizaing the **Physics Block** from [LensPINN](https://github.com/ML4SCI/DeepLense/blob/main/DeepLense_Physics_Informed_Neural_Network_for_Dark_Matter_Morphology_Ashutosh_Ojha/Notebooks/lenspinn.ipynb) that computes the inverse source image using gravitational lensing equations. The inverse source image is combined with the observed lensing image as a two-channel input to ResNet-18. <br><br> 
+- **Description:** A Physics-Informed ResNet-18 (PI-ResNet-18) integrates gravitational lensing equations into the classification pipeline, utilizing the **Physics Block** from [LensPINN](https://github.com/ML4SCI/DeepLense/blob/main/DeepLense_Physics_Informed_Neural_Network_for_Dark_Matter_Morphology_Ashutosh_Ojha/Notebooks/lenspinn.ipynb) that computes the inverse source image using gravitational lensing equations. The inverse source image is combined with the observed lensing image as a two-channel input to ResNet-18. <br><br> 
 
 - **Model:** PI-ResNet-18-Preprocessed
 - **Description:** A gradient map is generated based on lensing images as the third channel of PI-ResNet-18.
