@@ -1,9 +1,6 @@
 # DeepLense
 
-![GitHub last commit](https://img.shields.io/github/last-commit/bsyh/DeepLense)  
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/bsyh/DeepLense)  
-![GitHub license](https://img.shields.io/github/license/bsyh/DeepLense)  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+![GitHub last commit](https://img.shields.io/github/last-commit/bsyh/DeepLense)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/bsyh/DeepLense)  ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)\
 [![Email Badge](https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=0078D4)](mailto:hu.shouyue@outlook.com)  
 
 This repository contains implementations of **ResNet-18**, Physics-Informed ResNet-18 (**PI-ResNet-18**) and PI-ResNet-18 with gradient preprocessing (**ResNet-18-Preprocessed**) models for classifying dark matter substructures, developed as part of the Machine Learning for Science (ML4Sci) Google Summer of Code (GSoC) 2025 DeepLense evaluation tasks.
