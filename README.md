@@ -5,7 +5,6 @@
 
 This repository contains implementations of **ResNet-18**, Physics-Informed ResNet-18 (**PI-ResNet-18**) and PI-ResNet-18 with gradient preprocessing (**ResNet-18-Preprocessed**) models for classifying dark matter substructures, developed as part of the Machine Learning for Science (ML4Sci) Google Summer of Code (GSoC) 2025 DeepLense evaluation tasks.
 
-- [Resume](doc/resume_bruce_hu.pdf)  
 - [Technical Report](doc/report.pdf)  
 
 ## Table of Contents
